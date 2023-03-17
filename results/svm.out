@@ -1,0 +1,17 @@
+SVM
+val:
+[[ 963   57]
+ [  83 1037]]
+              precision    recall  f1-score   support
+
+        fake       0.92      0.94      0.93      1020
+        real       0.95      0.93      0.94      1120
+
+    accuracy                           0.93      2140
+   macro avg       0.93      0.94      0.93      2140
+weighted avg       0.93      0.93      0.93      2140
+
+Accuracy :  0.9345794392523364
+Precison :  0.9348008619335585
+Recall :  0.9345794392523364
+F1 :  0.9345519215989282

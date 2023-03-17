@@ -1,0 +1,17 @@
+Gradient Boost
+val:
+[[922  98]
+ [180 940]]
+              precision    recall  f1-score   support
+
+        fake       0.84      0.90      0.87      1020
+        real       0.91      0.84      0.87      1120
+
+    accuracy                           0.87      2140
+   macro avg       0.87      0.87      0.87      2140
+weighted avg       0.87      0.87      0.87      2140
+
+Accuracy :  0.8700934579439252
+Precison :  0.8725701589046834
+Recall :  0.8700934579439252
+F1 :  0.8700515862471604

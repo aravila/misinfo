@@ -1,0 +1,1 @@
+python baseline_logistic.py #>> results/logistic.out

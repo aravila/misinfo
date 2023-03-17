@@ -1,0 +1,1 @@
+python baseline_bert.py #>> results/bert.out

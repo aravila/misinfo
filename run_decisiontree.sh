@@ -1,0 +1,1 @@
+python baseline_decisiontree.py #>> results/decisiontree.out
